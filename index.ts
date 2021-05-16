@@ -88,6 +88,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
-  console.log("Un cambio");
+  console.log("Vino alguien e hizo un cambio");
 }
 main();
